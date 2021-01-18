@@ -1,0 +1,388 @@
+
+#page_scroller {
+    background: #005090;
+}
+
+/** MAIN HEADER AREA START **/
+.main-header {
+    border-top: solid 2px #005090;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-nav > .active > a:hover {
+    color: #fff !important;
+    background: #005090;
+}
+
+.main-header .navbar-default .nav > li > a:hover {
+    background: #005090;
+}
+
+.navbar-nav .dropdown-menu > li > a:hover {
+    border-right: solid 5px #005090;
+    color: #005090;
+}
+
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:focus,
+.navbar-default .navbar-nav > .open > a:hover {
+    color: #fff;
+    background-color: #005090;
+}
+
+.btn-view {
+    background: #005090;
+}
+
+.btn-view:hover {
+    background: #be1233;
+}
+
+.car-box .detail header h5 a {
+    color: #005090;
+}
+
+.car-box .detail header .price {
+    color: #005090;
+}
+
+.car-box .detail .facilities-list li i {
+    color: #005090;
+}
+
+.btn-details {
+    background: #005090;
+}
+
+.btn-details:hover {
+    background: #be1233;
+}
+
+.book-btn-l {
+    border-right: 1px solid #ae0420;
+}
+
+.featured-ribon {
+    background: #005090;
+}
+
+.overlap-btn {
+    background: #005090;
+    border: solid 2px #005090;
+}
+
+.overlap-btn:hover {
+    background: #be1233;
+    border: solid 2px #be1233;
+}
+
+
+.modal-title {
+    color: #005090;
+}
+
+.sub-footer form .button-small {
+    border: solid 1px #005090;
+    background: #005090;
+}
+
+.breadcrumb-area .btn-default:hover {
+    background: #005090;
+}
+
+.block-heading h4 {
+    background: #005090;
+}
+
+.change-view-btn {
+    color: #005090;
+    border: solid 1px #005090;
+}
+
+.change-view-btn:hover {
+    border: solid 1px #005090;
+    background: #005090;
+}
+
+.active-view-btn {
+    background: #005090;
+    border: solid 1px #005090;
+}
+
+.active-view-btn:hover {
+    border: solid 1px #005090;
+    color: #005090;
+}
+
+.car-list-box .detail header h3 a {
+    color: #005090;
+}
+
+.car-list-box .detail header .price {
+    color: #005090;
+}
+
+.car-list-box .detail .facilities-list li i {
+    color: #005090;
+}
+
+.pagination > li > a {
+    color: #005090;
+}
+
+.pagination > li > a:hover {
+    background: #005090;
+}
+
+.pagination > .active > a {
+    background: #005090;
+    border-color: #005090;
+}
+
+.pagination > .active > a:hover {
+    background: #005090;
+    border-color: #005090;
+}
+
+.sidebar-widget .title {
+    color: #005090;
+}
+
+.section-heading .media .media-left i {
+    background: #005090;
+}
+
+.section-heading .media .media-body h4 {
+    color: #005090;
+}
+
+.sidebar-widget .title:after {
+    background-color: #005090;
+}
+
+.helping-Center ul li i {
+    background: #005090;
+}
+
+.slider.slider-horizontal .slider-selection {
+    background: #005090;
+}
+
+.slider.slider-horizontal .slider-handle {
+    background: #005090;
+}
+
+.bootstrap-select.btn-group.show-tick .dropdown-menu li.selected a span.check-mark {
+    color: #005090;
+}
+
+.bootstrap-select .dropdown-menu li a {
+    color: #005090;
+
+}
+
+.checkbox-theme input[type="checkbox"]:checked + label::before {
+    background-color: #005090;
+    border-color: #005090;
+}
+
+.recent-cars .media .media-body h3 a {
+    color: #005090;
+
+}
+
+.option-bar .header-price h3 {
+    color: #005090;
+}
+
+.car-details-body .title.title:after {
+    background-color: #005090;
+}
+
+.amenities-box ul li i {
+    color: #005090;
+}
+.amenities-box ul li j {
+    background-color: #005090;
+}
+
+.book-btn {
+    background: #005090;
+    border: 1px solid #005090;
+}
+
+.reasons .media .media-left i {
+    background: #005090;
+}
+
+.reasons .media .media-body h4 {
+    color: #005090;
+}
+
+.twitter-feed a {
+    color: #005090;
+}
+
+.details-sidebar .title {
+    color: #005090;
+}
+
+.about-item .text h2:after {
+    background-color: #005090;
+}
+
+.about-box .detail h3:after {
+    background-color: #005090;
+}
+
+.we-best .content i {
+    background: #005090;
+}
+
+.we-best .content h4 {
+    color: #005090;
+}
+
+.contact-details .media .media-left i {
+    background: #005090;
+}
+
+.contact-details .media .media-body h4:after {
+    background-color: #005090;
+}
+
+.blog-box .detail h1:after {
+    background-color: #005090;
+}
+
+.blog-box .detail h1 a {
+    color: #005090;
+}
+
+.blog-box .detail .header a {
+    color: #005090;
+}
+
+blockquote {
+    border-left: 4px solid #005090;
+}
+
+.blog-box .title {
+    color: #005090;
+}
+
+.comments-thread .title {
+    color: #005090;
+}
+
+.comment-info span i {
+    color: #005090;
+}
+
+.comment a {
+    background: #005090;
+}
+
+.contact-form .title {
+    color: #005090;
+}
+
+.form-content-box .header {
+    background: #005090;
+}
+
+.btn-submit {
+    background: #005090;
+}
+
+.btn-submit:hover{
+    background: #be1233;
+}
+
+
+.form-content-box .footer span a {
+    color: #005090;
+}
+
+.banner .btn-default:hover{
+   background: #005090;
+}
+
+.error404-content h2 {
+    color: #005090;
+}
+
+.featured-car-slider .details h4 a {
+    color: #005090;
+}
+
+.featured-car-slider .details .price {
+    color: #005090;
+}
+
+.btn-div a span {
+    background: #005090;
+}
+
+.features-item .detail h4:after {
+    background-color: #005090;
+}
+
+.features-item .detail h4 a:hover {
+    color: #005090;
+}
+
+.typography-page mark.color {
+    background-color: #005090;
+}
+
+.list-3 li:before, .list-2 li:before, .list-1 li:before {
+    color: #005090;
+}
+
+.numbered.color.filled ol > li::before {
+    background:  #005090;
+    border: 1px solid #005090;
+    background-color: #005090;
+}
+
+.numbered.color ol > li::before {
+    border: 1px solid #005090;
+    color: #005090;
+}
+
+.panel-box .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+       background: #005090;
+}
+
+.nav>li>a:hover{
+        background: #005090;
+}
+
+.opening-hours h3:after {
+        background-color: #005090;
+}
+
+.about-text ul li i {
+       color: #005090;
+}
+
+.our-serivce-2 .media .media-left i {
+    background: #005090;
+}
+
+.pricing-tables-box .price-header-red{
+    background: #005090;
+}
+
+.panel-title i {
+    color: #005090;
+}
+
+@media (max-width: 768px) {
+    .navbar-default .navbar-toggle {
+        background: #005090;
+        border: solid 1px #005090;
+    }
+}
